@@ -8,7 +8,7 @@ window.addEventListener('load', function () {
     }
   });
 
-  // task 2
+  // task2
   const amenityIds = {};
   $('input[type=checkbox]').click(function () {
     if ($(this).prop('checked')) {
